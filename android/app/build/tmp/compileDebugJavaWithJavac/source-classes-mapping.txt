@@ -1,0 +1,14 @@
+com/befashion/MainApplication.java
+ com.befashion.MainApplication
+ com.befashion.MainApplication$1
+com/befashion/MainActivity.java
+ com.befashion.MainActivity
+com/befashion/BuildConfig.java
+ com.befashion.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/befashion/ReactNativeFlipper.java
+ com.befashion.ReactNativeFlipper
+ com.befashion.ReactNativeFlipper$1
+ com.befashion.ReactNativeFlipper$2
+ com.befashion.ReactNativeFlipper$2$1
